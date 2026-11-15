@@ -1,3 +1,29 @@
+# nature-skills
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Skills for Nature-style academic writing and scientific figure preparation.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+符合 Nature 论文学术表达与科研绘图规范的技能。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <p>
     <img src="assets/readme-banner-cn.png" alt="Nature Skills：面向全球学者的科研 Skill 库" width="100%">
